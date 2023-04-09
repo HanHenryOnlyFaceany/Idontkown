@@ -223,3 +223,63 @@
 2023-04-09 20:26:20.937 INFO  com.example1.Dontknow.config.DontknowApplication  :61   [32m                  [0;39m Started DontknowApplication in 1.066 seconds (JVM running for 1.655)
 2023-04-09 20:26:20.947 INFO  com.example1.Dontknow.config.DontknowApplication  :22   [32m                  [0;39m 启动成功！！
 2023-04-09 20:26:20.947 INFO  com.example1.Dontknow.config.DontknowApplication  :23   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2023-04-09 20:30:09.015 INFO  com.example1.Dontknow.config.DontknowApplication  :55   [32m                  [0;39m Starting DontknowApplication using Java 1.8.0_221 on DESKTOP-2VOAQ9R with PID 26720 (E:\demo（app）\Dontknow\target\classes started by asus in E:\demo（app）\Dontknow)
+2023-04-09 20:30:09.018 INFO  com.example1.Dontknow.config.DontknowApplication  :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-04-09 20:30:09.054 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-09 20:30:09.054 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-09 20:30:09.567 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2023-04-09 20:30:09.572 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-09 20:30:09.572 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-04-09 20:30:09.573 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-04-09 20:30:09.616 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-04-09 20:30:09.616 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 561 ms
+2023-04-09 20:30:09.709 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-09 20:30:09.795 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2023-04-09 20:30:09.803 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2023-04-09 20:30:09.815 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-09 20:30:09.822 INFO  com.example1.Dontknow.config.DontknowApplication  :61   [32m                  [0;39m Started DontknowApplication in 1.105 seconds (JVM running for 1.691)
+2023-04-09 20:30:09.824 INFO  com.example1.Dontknow.config.DontknowApplication  :22   [32m                  [0;39m 启动成功！！
+2023-04-09 20:30:09.824 INFO  com.example1.Dontknow.config.DontknowApplication  :23   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2023-04-09 20:30:13.609 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-09 20:30:13.609 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-04-09 20:30:13.610 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-04-09 20:32:35.605 INFO  com.example1.Dontknow.config.DontknowApplication  :55   [32m                  [0;39m Starting DontknowApplication using Java 1.8.0_221 on DESKTOP-2VOAQ9R with PID 6692 (E:\demo（app）\Dontknow\target\classes started by asus in E:\demo（app）\Dontknow)
+2023-04-09 20:32:35.608 INFO  com.example1.Dontknow.config.DontknowApplication  :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-04-09 20:32:35.639 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-09 20:32:35.640 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-09 20:32:36.154 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2023-04-09 20:32:36.159 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-09 20:32:36.160 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-04-09 20:32:36.160 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-04-09 20:32:36.206 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-04-09 20:32:36.207 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 566 ms
+2023-04-09 20:32:36.301 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-09 20:32:36.389 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2023-04-09 20:32:36.397 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2023-04-09 20:32:36.409 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-09 20:32:36.416 INFO  com.example1.Dontknow.config.DontknowApplication  :61   [32m                  [0;39m Started DontknowApplication in 1.121 seconds (JVM running for 1.698)
+2023-04-09 20:32:36.418 INFO  com.example1.Dontknow.config.DontknowApplication  :22   [32m                  [0;39m 启动成功！！
+2023-04-09 20:32:36.418 INFO  com.example1.Dontknow.config.DontknowApplication  :23   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2023-04-09 20:32:46.709 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-09 20:32:46.709 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-04-09 20:32:46.710 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-04-09 20:33:33.794 INFO  com.example1.Dontknow.config.DontknowApplication  :55   [32m                  [0;39m Starting DontknowApplication using Java 1.8.0_221 on DESKTOP-2VOAQ9R with PID 1884 (E:\demo（app）\Dontknow\target\classes started by asus in E:\demo（app）\Dontknow)
+2023-04-09 20:33:33.796 INFO  com.example1.Dontknow.config.DontknowApplication  :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-04-09 20:33:33.827 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-09 20:33:33.828 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-09 20:33:34.351 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2023-04-09 20:33:34.356 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-09 20:33:34.356 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-04-09 20:33:34.356 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-04-09 20:33:34.400 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-04-09 20:33:34.401 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 573 ms
+2023-04-09 20:33:34.492 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-09 20:33:34.578 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2023-04-09 20:33:34.586 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2023-04-09 20:33:34.598 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-09 20:33:34.611 INFO  com.example1.Dontknow.config.DontknowApplication  :61   [32m                  [0;39m Started DontknowApplication in 1.122 seconds (JVM running for 1.705)
+2023-04-09 20:33:34.613 INFO  com.example1.Dontknow.config.DontknowApplication  :22   [32m                  [0;39m 启动成功！！
+2023-04-09 20:33:34.613 INFO  com.example1.Dontknow.config.DontknowApplication  :23   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2023-04-09 20:33:45.048 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-09 20:33:45.049 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-04-09 20:33:45.049 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
