@@ -1,13 +1,16 @@
-package com.example1.Dontknow;
+package com.example1.Dontknow.config;
 
 //import org.omg.CORBA.Environment;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.core.env.Environment;
 
 @SpringBootApplication
+//只能扫描这个类下面的子包 所以需要添加一个注解
+@ComponentScan("com.example1")
 public class DontknowApplication {
 
 	private static final Logger LOG = LoggerFactory.getLogger(DontknowApplication.class);
