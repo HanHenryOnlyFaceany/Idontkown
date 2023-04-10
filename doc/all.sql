@@ -1,10 +1,12 @@
-drop table if exists `test1`;
+drop table if exists `test`;
 # //如果想要改脚本  也可以将其作为一个末班
-create table `test1`(
+create table `test`(
                         `id` bigint not null comment 'id',
                         `name` varchar(50) comment '名称',
+                        `password` varchar(50) comment '密码',
                         primary key (`id`)
-)engine=innodb default charset = utf8mb4 comment ='测试'
+)engine=innodb default charset = utf8mb4 comment ='测试';
 
-select * from test;
-
+# select * from test;
+insert into test (id, name, password)
+values (1,'ceshi','password');
