@@ -14,9 +14,14 @@ public class EbookService {
     @Resource
 //    @Autowired
     private EbookMapper ebookMapper;
+//模糊查询如何去写
+    public List<Ebook> list(String name){
 
-    public List<Ebook> list(){
-        return ebookMapper.selectByExample(new EbookExample());
+        EbookExample ebookExample = new EbookExample();
+        EbookExample.Criteria criteria = ebookExample.createCriteria();
+        criteria.andNameLike("%"+name+"%");
+
+        return ebookMapper.selectByExample(ebookExample);
     }
 
 }
